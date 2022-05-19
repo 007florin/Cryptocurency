@@ -1,6 +1,7 @@
 body {
 	font-family: Arial;
 	color: slategray;
+  padding: 25px;
 }
 
 header {
@@ -37,9 +38,6 @@ footer p {
 	padding-bottom: 15px;
 }
 
-body{
-  padding: 25px;
-}
 .title {
 	color: #5C6AC4;
 }
