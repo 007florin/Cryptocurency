@@ -1,0 +1,45 @@
+body {
+	font-family: Arial;
+	color: slategray;
+}
+
+header {
+  color: purple;
+  font-weight: 100;
+}
+
+h1 {
+	font-size: 300%;	
+}
+
+h1,
+h2,
+h3 {
+	color: orange;
+	text-transform: up;
+	font-weight: 100;
+}
+
+img {
+	width: 100%;
+}
+
+/* Add your styles here */
+footer {
+	margin-top: 70px;
+	background-color: gray;
+	color: white;
+}
+
+footer p {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
