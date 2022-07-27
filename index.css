@@ -4,6 +4,21 @@ body {
   padding: 25px;
 }
 
+.crypto {
+  width: 650px;
+  height: 350px;
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+  border: 8px ridge orange;  
+  padding: 5px;
+}
+
+.title {
+  text-align: center;
+  
+}
+
 header {
   color: purple;
   font-weight: 100;
